@@ -1,5 +1,7 @@
 # Ultrasonic-Distance-Calculator-using-8051-Microcontroller
 
+This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) [@reneeka](https://www.github.com/reneeka)
+
 ## Introduction
 The Ultrasonic Distance Calculator using 8051 is an advanced electronic device that utilizes ultrasonic technology for precise distance measurements. This report offers a comprehensive overview of the underlying principles of ultrasonic rangefinders, the circuitry involved, and the pivotal role of the 8051 microcontroller in distance calculations.
 
